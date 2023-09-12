@@ -1,0 +1,19 @@
+$vermelho: red;
+$branco: white;
+
+.container{
+    background-color: $vermelho;
+}
+
+h1{
+    color: $branco;
+}
+
+ul{
+    list-style-type: nome;
+    background-color: $vermelho;
+    li{
+        margin: 0;
+        padding: 0;
+    }
+}
